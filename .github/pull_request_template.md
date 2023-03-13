@@ -1,36 +1,45 @@
 
 -----
-### ##> TEMPLATE 1: []
+> TEMPLATE 1: [TS, DT, POC, UIX, NF (New Feature)]
 -----
 
-## Description:
-(What the task is about) ....
+## Task Description
+(What's the task about?)
+(What's new feature?)
+(What's you've done?)
 
+## Checklist
+- [x] Task A
+- [x] Task B
+- [x] Task C
 
-## Checklist:
-- [ ] Task Example 1
-- [ ] Task Example 2
-- [ ] Task Example 3
-
-
-## Additional Info (Optional):
-(Put Any Related Information Here) ....
-
-## Source:
-(User Story Source) ......
-
-
------
-### ##> TEMPLATE 2:
------
-## Bug Description
-(What the Bug is about) ....
-
-## Root Cause
-(The Causes?) ....
-
-## Solution Description
-(Any Solution?) ....
+## Other Notes / Concern?
+- Lorem ipsum...aasdads asdasda asdasdas
+- Lorem Ipsum asdadasdasdasd asdasdasda
 
 ## Source
-(User Story Source) ......
+(Put User Story, Excel or Anything Related with The US) ...
+
+
+
+-----
+> TEMPLATE 2: [HotFix (HF), BugFix (BF) / Buf Fix Regression (BFR)]
+-----
+## Current Behavior
+(Please elaborate the bug behaviour) ....
+
+## Affected Area
+- [x] Module A
+- [x] Module B
+
+## Expected Behavior
+(What is the expected behaviour) ...
+
+## Solution
+- [x] Solution 1
+- [x] Solution 2
+
+
+## Source:
+(Put User Story, Excel or Anything Related with The Bug) ...
+
