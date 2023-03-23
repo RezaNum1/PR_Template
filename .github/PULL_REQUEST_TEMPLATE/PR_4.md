@@ -4,9 +4,12 @@
 (What's you've done?)
 
 ## Checklist
-- [x] Task A
-- [x] Task B
-- [x] Task C
+- [ ] Does the design meet the expectation?
+
+## Task
+- [ ] Task A
+- [ ] Task B
+- [ ] Task C
 
 ## Other Notes / Concern?
 - Lorem ipsum...aasdads asdasda asdasdas
