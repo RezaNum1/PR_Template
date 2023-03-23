@@ -5,6 +5,7 @@
 
 ## Checklist
 - [ ] Does the design meet the expectation?
+- [ ] No Swiftlint Error & No warning for all changes file?
 
 ## Task
 - [ ] Task A
