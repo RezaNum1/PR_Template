@@ -1,3 +1,4 @@
+[PR TEMPLATE FOR: NF, DT, POC, NEW FEATURE]
 ## Task Description
 (What's the task about?)
 (What's new feature?)
