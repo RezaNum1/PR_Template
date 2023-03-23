@@ -1,4 +1,4 @@
-[PR TEMPLATE FOR: Bug Fix, HotFix]
+[PR TEMPLATE FOR: BF, HF]
 
 ## Bug Description
 (What the Bug is about) ....
