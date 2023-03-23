@@ -1,3 +1,5 @@
+[PR TEMPLATE FOR: Bug Fix, HotFix]
+
 ## Bug Description
 (What the Bug is about) ....
 
